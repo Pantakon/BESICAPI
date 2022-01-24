@@ -1,0 +1,28 @@
+[{
+        "title": "What Is Christmas?",
+        "subtitle": "Why don't people wish you a Festive Christmas? ",
+        "image_url": "https://cdn.pixabay.com/photo/2021/12/05/21/39/christmas-balls-6848782_960_720.jpg",
+        "detail": "Who Do We Celebrate?"
+    },
+
+    {
+        "title": "What is Programmer?",
+        "subtitle": "you probably don't wish people a Merry Birthday?",
+        "image_url": "https://cdn.pixabay.com/photo/2021/11/23/11/14/town-6818441_960_720.jpg",
+        "detail": "you probably don't wish people a Merry Birthday very often. You probably also don't hear many Merry Hanukkahs or Merry Ramadans either! What's the deal?"
+    },
+
+    {
+        "title": "Why Do We Say Merry Christmas?",
+        "subtitle": "Merry Christmas certainly?",
+        "image_url": "https://cdn.pixabay.com/photo/2016/08/09/21/54/lake-1581879_960_720.jpg",
+        "detail": "Merry Christmas certainly picked up steam in 1843 with the publication of Charles Dickens' A Christmas Carol."
+    },
+    {
+        "title": "who is santa claus?",
+        "subtitle": "Santa Claus bringing gifts to children? ",
+        "image_url": "https://cdn.pixabay.com/photo/2010/12/13/10/34/christmas-2918_960_720.jpg",
+        "detail": "Santa Claus, legendary figure who is the traditional patron of Christmas in the United States and other countries, bringing gifts to children. "
+    }
+
+]
